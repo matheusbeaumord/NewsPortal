@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "explorer.decorations.colors": true,
+  "css.lint.hexColorLength": "error",
+  "less.lint.hexColorLength": "error",
+  "scss.lint.hexColorLength": "error",
+  "css.lint.argumentsInColorFunction": "error",
+  "less.lint.argumentsInColorFunction": "error",
+  "scss.lint.argumentsInColorFunction": "error",
+  "search.useGlobalIgnoreFiles": false
+}
